@@ -4,8 +4,8 @@
 
  This program navigates you throw a series of six "rooms" simulated by mood states that
  draw pngs on the user's screen. The user uses the mouse to click on buttons that allow
- them to explore the different rooms. They can also press and "play" and "pause" button
- that allows them to sit back and have the rooms auto-navigate like a slideshow.
+ them to explore the different rooms. They can also press a play button that allows them
+ to sit back and have the rooms auto-navigate like a slideshow.
 
 ***********************************************************************************/
 
